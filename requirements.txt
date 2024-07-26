@@ -1,0 +1,10 @@
+accelerate==0.21.0 
+peft==0.4.0 
+bitsandbytes==0.40.2 
+transformers
+trl==0.4.7
+ipykernel
+tensorboard
+scipy
+networkx
+openai
